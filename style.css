@@ -1,0 +1,38 @@
+*{box-sizing: border-box;}
+.wrapper {
+    background: linear-gradient(to right, #FF0101 30%, #000 30%);
+    min-height: 100vh;
+}
+.header__container {
+    display: flex;
+}
+.nav__list {
+    display: flex;
+    padding-left: 1400px;
+}
+.nav__list-item{
+    padding-right: 35px;
+    color: aliceblue;
+}
+
+.text{color: aliceblue;
+
+}
+.header__car{
+    display: flex;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.text_down{
+    color:beige ;
+    font-size: 250px;
+}
+
+.car-img{
+  
+    
+}
